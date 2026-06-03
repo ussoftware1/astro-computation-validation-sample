@@ -1,0 +1,53 @@
+[
+  {
+    "input": {
+      "id": "synthetic-case-001",
+      "label": "Synthetic validation fixture, replace with licensed reference output",
+      "isoLocalDateTime": "1990-01-01T12:00:00",
+      "timeZone": "America/New_York",
+      "latitude": 40.7128,
+      "longitude": -74.006
+    },
+    "config": {
+      "zodiac": "tropical",
+      "ayanamsa": "none",
+      "houseSystem": "placidus",
+      "includeMinorAspects": true,
+      "aspectOrbs": {
+        "conjunction": 8,
+        "opposition": 8,
+        "trine": 7,
+        "square": 7,
+        "sextile": 5,
+        "quincunx": 3,
+        "semisextile": 2,
+        "semisquare": 2,
+        "sesquisquare": 2
+      }
+    },
+    "julianDayUt": 2447893.208333,
+    "positions": [
+      { "body": "Sun", "longitudeDeg": 280.123456, "declinationDeg": -22.98765, "distanceAu": 0.98331, "retrograde": false },
+      { "body": "Moon", "longitudeDeg": 330.234567, "declinationDeg": -12.34567, "distanceAu": 0.00257, "retrograde": false },
+      { "body": "Mercury", "longitudeDeg": 295.345678, "declinationDeg": -20.11111, "distanceAu": 1.10101, "retrograde": false },
+      { "body": "Venus", "longitudeDeg": 302.456789, "declinationDeg": -18.22222, "distanceAu": 1.20202, "retrograde": false },
+      { "body": "Mars", "longitudeDeg": 250.56789, "declinationDeg": -23.33333, "distanceAu": 1.30303, "retrograde": false }
+    ],
+    "houseCusps": [
+      { "house": 1, "longitudeDeg": 15 },
+      { "house": 2, "longitudeDeg": 45 },
+      { "house": 3, "longitudeDeg": 75 },
+      { "house": 4, "longitudeDeg": 105 },
+      { "house": 5, "longitudeDeg": 135 },
+      { "house": 6, "longitudeDeg": 165 },
+      { "house": 7, "longitudeDeg": 195 },
+      { "house": 8, "longitudeDeg": 225 },
+      { "house": 9, "longitudeDeg": 255 },
+      { "house": 10, "longitudeDeg": 285 },
+      { "house": 11, "longitudeDeg": 315 },
+      { "house": 12, "longitudeDeg": 345 }
+    ],
+    "ascendantDeg": 15,
+    "mcDeg": 285
+  }
+]
